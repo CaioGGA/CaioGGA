@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 - [Calculadora](https://github.com/CaioGGA/calculadora) – Calculadora simples em HTML, CSS e JavaScript.
 - [Snake Game](https://github.com/CaioGGA/snake-game) – Jogo clássico implementado em Python.
   
-## Contato - GitHub: 
--[CaioGGA](https://github.com/CaioGGA) 
--Email: caioggacontacts@gmail.com
+## Contato 
+- GitHub: [CaioGGA](https://github.com/CaioGGA) 
+- Email: caioggacontacts@gmail.com

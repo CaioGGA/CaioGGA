@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 ## Habilidades 
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Python
 - **Ferramentas:** Git, GitHub, Vite, PyCharm, Linux 
 - **Outros:** Lógica de programação, resolução de problemas, projetos pessoais
 
 ## Projetos em destaque
-- [ToDo App](https://github.com/CaioGGA/ToDo-app) – Aplicação para gerenciar tarefas.
-- [Calculadora](https://github.com/CaioGGA/calculadora) – Calculadora simples em HTML, CSS e JavaScript.
+- [ToDo App](https://github.com/CaioGGA/ToDo-app) – Aplicação para gerenciar tarefas com HTML, CSS e JavaScript.
+- [Calculadora](https://github.com/CaioGGA/calculadora) – Calculadora simples em Python.
 - [Snake Game](https://github.com/CaioGGA/snake-game) – Jogo clássico implementado em Python.
   
 ## Contato 
